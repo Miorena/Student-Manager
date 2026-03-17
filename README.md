@@ -156,4 +156,4 @@ This Java version replaces it with a proper relational database, OOP design patt
 
 ## 👤 Author
 
-- **Your Name** — 3rd year student, GLBD (Software Engineering & Databases)
+- **Miorena Finaritra** — 3rd year student, GLBD (Software Engineering & Databases)
