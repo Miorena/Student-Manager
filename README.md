@@ -1,6 +1,6 @@
 # 🎓 Student Management System
 
-A desktop Java application for managing students at ONIFRA, built with Java, JDBC and PostgreSQL.
+A desktop Java application for managing students, built with Java, JDBC and PostgreSQL.
 This project is a complete rewrite of an original C project from first year, now using proper OOP architecture, a real database, and clean package separation.
 
 ---
