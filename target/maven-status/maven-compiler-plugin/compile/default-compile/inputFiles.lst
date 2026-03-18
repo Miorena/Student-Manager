@@ -1,1 +1,6 @@
 /home/mimi/BackEnd/rappel_java/gestion_eleve/gestion-etudiants/src/main/java/univ/App.java
+/home/mimi/BackEnd/rappel_java/gestion_eleve/gestion-etudiants/src/main/java/univ/dao/DatabaseConnection.java
+/home/mimi/BackEnd/rappel_java/gestion_eleve/gestion-etudiants/src/main/java/univ/dao/StudentDAO.java
+/home/mimi/BackEnd/rappel_java/gestion_eleve/gestion-etudiants/src/main/java/univ/model/Student.java
+/home/mimi/BackEnd/rappel_java/gestion_eleve/gestion-etudiants/src/main/java/univ/service/StudentService.java
+/home/mimi/BackEnd/rappel_java/gestion_eleve/gestion-etudiants/src/main/java/univ/ui/Menu.java

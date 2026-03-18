@@ -55,7 +55,7 @@ public class StudentDAO {
 	// Search for students by name
 	public List<Student> searchStudentsByName(String firstName) {
 		List<Student> students = new ArrayList<>();
-		String sql = "SELECT * FROM etudiants WHERE nom = ?";
+		String sql = "SELECT * FROM etudiants WHERE prenom = ?";
 		try (PreparedStatement pstmt = connection.prepareStatement(sql)) {
 			pstmt.setString(1, firstName);
 			try (ResultSet rs = pstmt.executeQuery()) {
